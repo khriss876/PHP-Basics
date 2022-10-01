@@ -10,8 +10,8 @@ include 'Includes/header.php'?>
     ?>
 
     <?php 
-    $name = 'Chevaun Mcintosh';
-    $age =27;
+    $name = 'Clive Griffiths';
+    $age =26;
     echo $name;
     echo '<h1> My Name is : '.$name.'</h1>';
     echo '<h1> My Age is : '.$age.'</h1>';
