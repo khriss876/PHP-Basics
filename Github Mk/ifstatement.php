@@ -16,7 +16,7 @@ include 'Includes/header.php'?>
       $Grade = 'A';
       //If-Else If-Else
       If($Grade =='A'){
-        echo'<h2 style="color:gold">You are A SUPERSTAR</h2>';
+        echo'<h2 style="color:gold">You are THE BEST </h2>';
       }
       elseif($Grade =='B'){
         echo'<h2 style="color:green">You Have Done WEll</h2>';
