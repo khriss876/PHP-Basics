@@ -8,7 +8,7 @@ include 'Includes/header.php'?>
     
     $phrase1 = "Student who are late for class";
     $phrase2 = "Are subjected to detention ";
-    $name = "chevaun mcintosh";
+    $name = "clive griffiths";
     echo $phrase1 . ",named hennry,".$phrase2;
     echo '<br/>';
     echo'<hr/>';
