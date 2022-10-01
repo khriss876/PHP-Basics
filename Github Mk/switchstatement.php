@@ -7,7 +7,7 @@ include 'Includes/header.php'?>
     $Grade ='A';
     switch($Grade){
         case'A': 
-            echo'<h2 style="color:gold">You are A SUPERSTAR</h2>';
+            echo'<h2 style="color:gold">You are THE BEST</h2>';
             break;
         case 'B':
             echo'<h2 style="color:green">You Have Done WEll</h2>';
